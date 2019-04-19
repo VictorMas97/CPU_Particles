@@ -194,6 +194,120 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1460691832
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7439426916798997866, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_Name
+      value: Glowing Orb Rune Casters
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915279249776, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915553237766, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915778773818, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915018153187, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: VelocityModule.orbitalX.scalar
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915018153187, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: VelocityModule.orbitalX.minScalar
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915018153187, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: VelocityModule.orbitalY.scalar
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915018153187, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: VelocityModule.orbitalY.minScalar
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915018153187, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: VelocityModule.orbitalZ.scalar
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426915018153187, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: VelocityModule.orbitalZ.minScalar
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12, type: 3}
 --- !u!1 &1619878605
 GameObject:
   m_ObjectHideFlags: 0
@@ -298,6 +412,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Healing Spell
       objectReference: {fileID: 0}
+    - target: {fileID: 2046979443215755726, guid: def629979be482845820344df2e65b50,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2046979443215755727, guid: def629979be482845820344df2e65b50,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -366,6 +485,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Glowing Orb
+      objectReference: {fileID: 0}
+    - target: {fileID: 7439426916798997866, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7439426916798997865, guid: 187f61b0e0b1f2947ab8c8c65dc6aa12,
         type: 3}
